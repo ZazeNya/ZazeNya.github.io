@@ -1,1 +1,1 @@
-# ZazeNya.github.io
+# ZazeNya
