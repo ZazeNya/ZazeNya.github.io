@@ -3,6 +3,10 @@
 	<h3>Engineering student</h3>
 </div>
 
+<div id="photo" align="center">
+<img src="https://avatars.githubusercontent.com/u/115577504?s=400&u=91b80f1a24f694419818119489e659290f33ea87&v=4" title="photo" width="100" height="100"/>&nbsp;
+</div>
+
 <div id="socials" align="center">
 	<a href="https://twitter.com/AntAres13534196?t=FS3ATdDVIgCpnjvYtEbwlw&s=09">
 		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
