@@ -1,4 +1,3 @@
-# ZazeNya
 <div id="header" align="center">
 	<h1>Hi there, I'm Eugenia</h1>
 	<h3>Engineering student</h3>
@@ -16,6 +15,8 @@
 ### About me
 - 🌱 I’m currently learning **Web Design, Mobile Development**
 - 📝 I regularly participate in sporst programming
+- 📝 Student Polessky State University
+- 🌱 I’m 20 y.o.
 - 📫 Reach me by [Telegramm](https://t.me/young_otaku), [email](citrus1113@mail.ru)
 
 ### Languages and tools
@@ -28,10 +29,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
-                
+ 
+ # Code Example
+```
+    print("Python")
+```
+
 ### My stat
 <div id="stat" align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZazeNya&theme=buefy"/>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZazeNya&theme=buefy"/>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZazeNya&theme=buefy"/>
 </div>
+
