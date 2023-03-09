@@ -4,7 +4,7 @@
 </div>
 
 <div id="photo" align="center">
-<img src="https://avatars.githubusercontent.com/u/115577504?s=400&u=91b80f1a24f694419818119489e659290f33ea87&v=4" title="photo" width="100" height="100"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/115577504?s=400&u=91b80f1a24f694419818119489e659290f33ea87&v=4" title="photo" width="200" height="200"/>&nbsp;
 </div>
 
 <div id="socials" align="center">
